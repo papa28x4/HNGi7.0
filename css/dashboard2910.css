@@ -508,8 +508,12 @@ h1
     border-radius: 3px;
 	/* margin-bottom: 25px; */
 	box-shadow: 1px 0 3px rgba(0,0,0,0.3);
+<<<<<<< HEAD
 	/* background-color: #00aeff !important; */
 	background-color: #fefefe !important;
+=======
+	background-color: #00aeff !important;
+>>>>>>> 03a33ee07748f65810b504ab46707227079caa3f
   }
   .statis .box h3:after {
     content: "";
@@ -533,6 +537,7 @@ h1
     text-align: right;
     border-radius: 50%;
   }
+<<<<<<< HEAD
 
 
 
@@ -541,6 +546,16 @@ h1
 	/* color: #b31329 */
 	color: #222;
   }
+=======
+  
+  
+  
+  
+  .main-color {
+	/* color: #b31329 */
+	color: #222;
+  } 
+>>>>>>> 03a33ee07748f65810b504ab46707227079caa3f
   .warning {background-color: #f0ad4e}
   .danger {background-color: #d9534f}
   .success {background-color: #5cb85c}
@@ -560,7 +575,10 @@ h1
   .navbar-default {
 	/* background-color: #337ab7 !important; */
 	background-color:#00aeff !important;
+<<<<<<< HEAD
 	/* background: linear-gradient(180deg, #D1F0F6 0%, #00aeff 100%); */
+=======
+>>>>>>> 03a33ee07748f65810b504ab46707227079caa3f
     border: none !important;
     border-radius: 0 !important;
 	margin: 0 !important;
@@ -703,15 +721,24 @@ h1
 	}
   }
 
+<<<<<<< HEAD
 .charts{
 	margin-top: 2rem;
 	background-color:#fefefe;
 	box-shadow: 1px 0 3px rgba(0,0,0,0.3);
+=======
+  #statistics{
+	width: 500px;
+	height: 400px;
+	margin-left: 16vw;
+	border: 1px solid red;
+>>>>>>> 03a33ee07748f65810b504ab46707227079caa3f
 }
 
 .intern-table, .mentor-table{
 	display: none;
 }
+<<<<<<< HEAD
 
 .options{
 	text-align: center;
@@ -749,3 +776,5 @@ h1
 #mentor-breakdown-pie.active{
 	display: block !important;
 }
+=======
+>>>>>>> 03a33ee07748f65810b504ab46707227079caa3f
